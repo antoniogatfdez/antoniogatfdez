@@ -1,4 +1,4 @@
-# Hola, soy [Antonio Gat Fernández] 👋
+# Hola, soy Antonio Gat Fernández 👋
 
 ## 📬 Contacto
 
@@ -6,36 +6,41 @@
 - **LinkedIn:** [Antonio Gat Fernández](https://www.linkedin.com/in/antoniogatfdez/)
 - **Instagram:** [@antoniogatfdez](https://www.instagram.com/antoniogatfdez/)
 
+
 ## 🎓 Educación
 
-- **[Año de Inicio] - [Año de Fin]**  
-  [Nombre de la Institución] - [Título Obtenido]
+- **Sep 2024 - Actualidad**  
+  [IES Castelar] - Grado Superior Desarrollo Web
 
-- **[Año de Inicio] - [Año de Fin]**  
-  [Nombre de la Institución] - [Título Obtenido]
+- **Jun 2023 - Jul 2023**  
+  [Cambridge] - B1
+
+- **Sep 2022 - Jun 2024**  
+  [IES Melendez Valdés] - Bachillerato
+
 
 ## 🏆 Certificaciones
 
-- **[Nombre de la Certificación]**  
-  [Udemy] - [Fecha de Obtención]
+- **JavaScript**  
+  [Udemy] - Ago 2024
 
-- **[Nombre de la Certificación]**  
-  [Udemy] - [Fecha de Obtención]
+- **PHP**  
+  [Udemy] - Ago 2024
   
-- **[Nombre de la Certificación]**  
-  [DevTalles] - [Fecha de Obtención]
+- **Shadcn/ui**  
+  [DevTalles] - Ago 2024
   
-- **[Nombre de la Certificación]**  
-  [DevTalles] - [Fecha de Obtención]
+- **TanStack Query**  
+  [DevTalles] - Ago 2024
   
-- **[Nombre de la Certificación]**  
-  [Euroinnova] - [Fecha de Obtención]
+- **Machine Learning**  
+  [Euroinnova] - Ago 2024
   
-- **[Nombre de la Certificación]**  
-  [EuroInnova] - [Fecha de Obtención]
+- **Seguridad de Redes informáticas**  
+  [EuroInnova] - Ago 2024
   
-- **[Nombre de la Certificación]**  
-  [EuroInnova] - [Fecha de Obtención]
+- **Creación de Interfaces y Aplicaciones en Red**  
+  [EuroInnova] - Sep 2024
   
 
 ## 🛠️ Tecnologías y Herramientas
