@@ -5,6 +5,7 @@
 - **Correo electrónico:** [antoniogatfdez@protonmail.com](mailto:antoniogatfdez@protonmail.com)
 - **LinkedIn:** [Antonio Gat Fernández](https://www.linkedin.com/in/antoniogatfdez/)
 - **Instagram:** [@antoniogatfdez](https://www.instagram.com/antoniogatfdez/)
+- **X:** [@antoniogatfdez](https://www.x.com/antoniogatfdez/)
 
 
 ## 🎓 Educación
