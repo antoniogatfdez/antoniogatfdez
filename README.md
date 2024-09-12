@@ -17,10 +17,26 @@
 ## 🏆 Certificaciones
 
 - **[Nombre de la Certificación]**  
-  [Entidad Emisora] - [Fecha de Obtención]
+  [Udemy] - [Fecha de Obtención]
 
 - **[Nombre de la Certificación]**  
-  [Entidad Emisora] - [Fecha de Obtención]
+  [Udemy] - [Fecha de Obtención]
+  
+- **[Nombre de la Certificación]**  
+  [DevTalles] - [Fecha de Obtención]
+  
+- **[Nombre de la Certificación]**  
+  [DevTalles] - [Fecha de Obtención]
+  
+- **[Nombre de la Certificación]**  
+  [Euroinnova] - [Fecha de Obtención]
+  
+- **[Nombre de la Certificación]**  
+  [EuroInnova] - [Fecha de Obtención]
+  
+- **[Nombre de la Certificación]**  
+  [EuroInnova] - [Fecha de Obtención]
+  
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -28,8 +44,8 @@ Aquí tienes algunos de los lenguajes y herramientas con los que estoy familiari
 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![ShadCN/ui](https://img.shields.io/badge/-ShadCN/ui-000000?style=flat&logo=shadcn&logoColor=white)  *(Nota: Si el logo no está disponible, puedes usar un placeholder o enlace alternativo)*
-- ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF6F61?style=flat&logo=tanstack&logoColor=white)  *(Nota: Similar a ShadCN/ui, ajusta según disponibilidad)*
+- ![ShadCN/ui](https://img.shields.io/badge/-ShadCN/ui-000000?style=flat&logo=shadcn&logoColor=white)  
+- ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF6F61?style=flat&logo=tanstack&logoColor=white)  
 
 ---
 
