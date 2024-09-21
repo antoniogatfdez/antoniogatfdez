@@ -42,6 +42,9 @@
   
 - **Creación de Interfaces y Aplicaciones en Red**  
   [EuroInnova] - Sep 2024
+
+- **OpenAI: Ejercicios y asistentes con Angular + NestJS**  
+  [DevTalles] - Sep 2024
   
 
 ## 🛠️ Tecnologías y Herramientas
