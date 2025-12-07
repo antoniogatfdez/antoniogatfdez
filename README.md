@@ -2,7 +2,7 @@
 
 ## 📬 Contacto
 
-- **Correo electrónico:** [antoniogatfdez@protonmail.com](mailto:antoniogatfdez@protonmail.com)
+- **Correo electrónico:** [hola@antoniogatfdez.com](mailto:hola@antoniogatfdez.com)
 - **LinkedIn:** [Antonio Gat Fernández](https://www.linkedin.com/in/antoniogatfdez/)
 - **Instagram:** [@antoniogatfdez](https://www.instagram.com/antoniogatfdez/)
 - **X:** [@antoniogatfdez](https://www.x.com/antoniogatfdez/)
@@ -22,30 +22,50 @@
 
 ## 🏆 Certificaciones
 
-- **JavaScript**  
-  [Udemy] - Ago 2024
+- **Python desde Cero**  
+  [OpenWebinars] - Sep 2025
+  
+- **Curso Fundamentos de JavaScript**  
+  [OpenWebinars] - Jun 2025
+  
+- **Curso Google: Inteligencia Artificial y Productividad**  
+  [Santander Open Academy] - Jun 2025
+  
+- **Curso Internet of Things**  
+  [Santander Open Academy] - Jun 2025
+  
+- **Curso Java desde 0: Orientación a Objetos**  
+  [OpenWebinars] - Jun 2025
 
-- **PHP**  
-  [Udemy] - Ago 2024
-  
-- **Shadcn/ui**  
-  [DevTalles] - Ago 2024
-  
-- **TanStack Query**  
-  [DevTalles] - Ago 2024
-  
-- **Machine Learning**  
-  [Euroinnova] - Ago 2024
-  
-- **Seguridad de Redes informáticas**  
-  [EuroInnova] - Ago 2024
+- **Curso Prompting Responsable**   
+  [Santander Open Academy] - Jun 2025
+
+- **Curso HTML5 y CSS3**  
+  [OpenWebinars] - Jun 2025
   
 - **Creación de Interfaces y Aplicaciones en Red**  
-  [EuroInnova] - Sep 2024
+  [Euroinnova] - Sep 2024
 
-- **OpenAI: Ejercicios y asistentes con Angular + NestJS**  
-  [DevTalles] - Sep 2024
-  
+- **Curso OpenAI: Ejercicios y Asistentes con Angular + NestJS**  
+  [Devtalles] - Sep 2024
+
+- **Introducción a Objetos con PHP**  
+  [Udemy] - Ago 2024
+
+- **Introducción a la Programación usando JavaScript**  
+  [Udemy] - Ago 2024
+
+- **Machine Learning**  
+  [Euroinnova] - Ago 2024
+
+- **Seguridad de Redes Informáticas**  
+  [Euroinnova] - Ago 2024
+
+- **Shadcn/UI**  
+  [Devtalles] - Ago 2024
+
+- **TanStack Query**  
+  [Devtalles] - Ago 2024
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -55,13 +75,15 @@ Aquí tienes algunos de los lenguajes y herramientas con los que estoy familiari
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![ShadCN/ui](https://img.shields.io/badge/-ShadCN/ui-000000?style=flat&logo=shadcn&logoColor=white)  
 - ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF6F61?style=flat&logo=tanstack&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas conectar, no dudes en contactarme.
 
-
-<!---
-antoniogatfdez/antoniogatfdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
